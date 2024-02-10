@@ -7,6 +7,4 @@ b4a version > b4a-version.txt
 cat b4a-version.txt
 echo "I am: " $(whoami)
 echo "my folder: " $(pwd)
-echo $(ls -laR .)
-echo "######################################"
-ls -R /
+ls -laR

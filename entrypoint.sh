@@ -6,6 +6,7 @@ echo "::set-output name=time::$time"
 b4a version
 echo "I am: " $(whoami)
 echo "my folder: " $(pwd)
-ls -laR
+#ls -laR
 echo "#############"
-b4a list
+#b4a list
+ls -laR ${HOME}/.back4app/

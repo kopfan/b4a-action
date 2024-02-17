@@ -9,6 +9,8 @@ echo "my folder: " $(pwd)
 #ls -laR
 echo "#############"
 #b4a list
-find / -type d
-echo "#############"
+#find / -type d
+echo "### ENV #####"
 env
+echo "#############"
+cat /root/.back4app/netrc

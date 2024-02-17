@@ -9,4 +9,4 @@ echo "my folder: " $(pwd)
 #ls -laR
 echo "#############"
 #b4a list
-ls -laR ${HOME}/.back4app/
+ls -da .

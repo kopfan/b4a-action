@@ -14,3 +14,5 @@ echo "### ENV #####"
 env
 echo "#############"
 cat /root/.back4app/netrc
+echo "#### B4A ######"
+b4a list

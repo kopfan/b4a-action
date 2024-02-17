@@ -10,4 +10,4 @@ echo "home folder: " $(home)
 #ls -laR
 echo "#############"
 #b4a list
-ls -da /
+find / -type d
